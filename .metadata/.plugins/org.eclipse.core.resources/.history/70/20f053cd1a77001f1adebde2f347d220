@@ -1,0 +1,12 @@
+package stack;
+
+public class StackPgn {
+	
+	int[] arr;
+	int topOfStack;
+	
+	public StackPgn()
+	
+	
+
+}

@@ -1,0 +1,17 @@
+package stack;
+
+public class StackPgn {
+
+	int[] arr;
+	int topOfStack;
+
+	public StackPgn(int size) {
+		arr = new int[size];
+		topOfStack = -1;
+	}
+
+	public boolean isEmpty() {
+		return	topOfStack == -1;
+	}
+
+}

@@ -1,0 +1,32 @@
+package stack;
+
+public class StackPgn {
+
+	int[] arr;
+	int topOfStack;
+
+	public StackPgn(int size) {
+		arr = new int[size];
+		topOfStack = -1;
+	}
+
+	public boolean isEmpty() {
+		return	topOfStack == -1;
+	}
+	
+	public boolean isFull() {
+		return	topOfStack == (arr.length-1);
+	}
+	
+	public void push(int value) {
+		if(isFull()) {
+			System.out.println("The Stack is Full");
+		}else {
+			arr[++topOfStack]=value;
+			System.out.println("The value is inserted " + value);
+		}
+	}
+	
+	
+
+}

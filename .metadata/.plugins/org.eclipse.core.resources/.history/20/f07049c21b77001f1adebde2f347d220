@@ -1,0 +1,15 @@
+package stack;
+
+public class MainClass {
+	
+	public static void main(String[] args) {
+		int size = 5;
+		StackPgn s1 = new StackPgn(size);
+		
+		System.out.println("Stack is Empty " + s1.isEmpty());
+		System.out.println("Stack is Empty " + s1.isEmpty());
+		
+		
+	}
+
+}
