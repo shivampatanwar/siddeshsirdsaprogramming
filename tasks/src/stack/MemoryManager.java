@@ -29,7 +29,7 @@ public class MemoryManager {
 
 		MemoryBlock block = new MemoryBlock(processName, memorySize, currentMemoryAddress);
 		memoryStack.push(block);
-		System.out.println("Allocated memory for: " + block.toString());	
+		System.out.println("Allocated memory for: " + block);	
 		currentMemoryAddress+=memorySize ;
 		
 	}
@@ -40,7 +40,7 @@ public class MemoryManager {
 			System.out.println("Stack is Empty we can't Deallocate");
 		}else {
 			MemoryBlock block =  memoryStack.pop();
-			System.out.println("Deallocated memory for: " +block.toString());
+			System.out.println("Deallocated memory for: " +block);
 		}
 	}
 
@@ -50,7 +50,7 @@ public class MemoryManager {
 			System.out.println("Stack Memory is Empty");
 		}else {
 			for(MemoryBlock block: memoryStack) {
-				System.out.println(block.toString());
+				System.out.println(block);
 			}
 		}
 
