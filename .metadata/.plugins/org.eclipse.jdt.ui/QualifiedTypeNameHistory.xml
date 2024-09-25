@@ -6,4 +6,10 @@
     <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
     <fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="area.MergeSort"/>
+    <fullyQualifiedTypeName name="area.SelectionSort"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="browserforback.WebHistory"/>
+    <fullyQualifiedTypeName name="java.util.Stack"/>
+    <fullyQualifiedTypeName name="stack.MemoryBlock"/>
 </qualifiedTypeNameHistroy>

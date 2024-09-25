@@ -29,6 +29,8 @@ public class StackPgn {
 		}
 	}
 	
+	
+	
 	public int pop() {
 		if(isEmpty()) {
 			System.out.println("The Stack is Empty");

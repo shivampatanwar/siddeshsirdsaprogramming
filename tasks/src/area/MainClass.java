@@ -6,13 +6,34 @@ public class MainClass {
 		
 		Area[] arr = createObject();
 
-		Area[] area = InsertionSort.sortByStno(arr);
-//		Area[] area = InsertionSort.sortByStationname(arr);
+//		Area[] area = InsertionSort.sortByStno(arr);
+		Area[] area = InsertionSort.sortByStationname(arr);
 //		Area[] area = InsertionSort.sortByTemperature(arr);
 //		Area[] area = InsertionSort.sortByColor(arr);
 //		Area[] area = InsertionSort.sortByPh(arr);
 //		Area[] area = InsertionSort.sortByChloride(arr);
 //		Area[] area = InsertionSort.sortByFlouride(arr);
+		
+		
+		
+//		Area[] area = MergeSort.sortByStno(arr);
+//		Area[] area = MergeSort.sortByStationname(arr);
+//		Area[] area = MergeSort.sortByTemperature(arr);
+//		Area[] area = MergeSort.sortByColor(arr);
+//		Area[] area = MergeSort.sortByPh(arr);
+//		Area[] area = MergeSort.sortByChloride(arr);
+//		Area[] area = MergeSort.sortByFlouride(arr);
+		
+		
+		
+		
+//		Area[] area = SelectionSort.sortByStno(arr);
+//		Area[] area = SelectionSort.sortByStationname(arr);
+//		Area[] area = SelectionSort.sortByTemperature(arr);
+//		Area[] area = SelectionSort.sortByColor(arr);
+//		Area[] area = SelectionSort.sortByPh(arr);
+//		Area[] area = SelectionSort.sortByChloride(arr);
+//		Area[] area = SelectionSort.sortByFlouride(arr);
 		
 		
 		System.out.println(
