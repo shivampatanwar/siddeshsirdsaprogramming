@@ -15,18 +15,18 @@ public class RangeOfPrime {
 			arr[i] = true;	
 		}
 		
+		// execute
 		for (int i = 2; i*i < no; i++) {
 			for (int j = i*i; j < no; j+=i) {
 				arr[j]=false;	
 			}
 		}
 		
+		// Print
 		for (int i = 2; i < arr.length; i++) {
 			if(arr[i]==true) {
 				System.out.println("Prime Number is " + i);
-			}
-			
-			
+			}	
 		}
 		
 	}
