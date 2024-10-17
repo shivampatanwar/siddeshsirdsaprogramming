@@ -25,7 +25,7 @@ public class RedBus {
 				Booking booking = new Booking(passengerName, gender, seatNumber, trackerId(passengerName, phone), from,
 						to);
 				bookings[seatNumber - 1] = booking;
-				System.out.println("Ticket booked successfully for " + booking + "\n\n");
+				System.out.println("\nTicket booked successfully for " + booking + "\n\n");
 			}
 
 		} catch (Exception e) {

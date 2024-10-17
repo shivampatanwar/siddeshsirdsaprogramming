@@ -20,7 +20,7 @@ public class Area {
 	this.ph = ph;
 	this.chloride = chloride;
 	this.flouride = flouride;
-    }
+    }	
 
     public String getStno() {
         return stno;
