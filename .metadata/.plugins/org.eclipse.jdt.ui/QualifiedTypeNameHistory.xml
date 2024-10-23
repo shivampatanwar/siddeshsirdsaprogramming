@@ -9,8 +9,6 @@
     <fullyQualifiedTypeName name="browserforback.WebHistory"/>
     <fullyQualifiedTypeName name="stack.MemoryBlock"/>
     <fullyQualifiedTypeName name="queue.QueueProgram"/>
-    <fullyQualifiedTypeName name="java.util.Queue"/>
-    <fullyQualifiedTypeName name="java.util.LinkedList"/>
     <fullyQualifiedTypeName name="aircroftscheduling.Scheduling"/>
     <fullyQualifiedTypeName name="aircroftscheduling.AirCraftDetails"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
@@ -21,13 +19,11 @@
     <fullyQualifiedTypeName name="flightbooking.PassengerData"/>
     <fullyQualifiedTypeName name="array1d.OneDimensionalArray"/>
     <fullyQualifiedTypeName name="java.lang.InternalError"/>
-    <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="array1d.OneDimensionalIntegerArray"/>
     <fullyQualifiedTypeName name="array1d.OneDimensionalStringArray"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
     <fullyQualifiedTypeName name="redbus1darray.Booking"/>
     <fullyQualifiedTypeName name="redbus1darray.RedBus"/>
-    <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="array2d.TwoDimensionalArray"/>
     <fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
     <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
@@ -41,4 +37,11 @@
     <fullyQualifiedTypeName name="stack.StackProgram"/>
     <fullyQualifiedTypeName name="java.util.Stack"/>
     <fullyQualifiedTypeName name="webhistory.WebHistory"/>
+    <fullyQualifiedTypeName name="java.util.Queue"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="printfile.Files"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="printfile.PrintFile"/>
 </qualifiedTypeNameHistroy>
