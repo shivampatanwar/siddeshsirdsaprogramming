@@ -11,8 +11,6 @@
     <fullyQualifiedTypeName name="queue.QueueProgram"/>
     <fullyQualifiedTypeName name="aircroftscheduling.Scheduling"/>
     <fullyQualifiedTypeName name="aircroftscheduling.AirCraftDetails"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="flightbooking.PassengerDetails"/>
     <fullyQualifiedTypeName name="flightbooking.OnlineTicket"/>
     <fullyQualifiedTypeName name="flightbooking.AirwaysDetails"/>
@@ -25,7 +23,6 @@
     <fullyQualifiedTypeName name="redbus1darray.Booking"/>
     <fullyQualifiedTypeName name="redbus1darray.RedBus"/>
     <fullyQualifiedTypeName name="array2d.TwoDimensionalArray"/>
-    <fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
     <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
     <fullyQualifiedTypeName name="array2d.TwoDimensionalIntegerArray"/>
     <fullyQualifiedTypeName name="java.awt.print.Book"/>
@@ -37,11 +34,21 @@
     <fullyQualifiedTypeName name="stack.StackProgram"/>
     <fullyQualifiedTypeName name="java.util.Stack"/>
     <fullyQualifiedTypeName name="webhistory.WebHistory"/>
-    <fullyQualifiedTypeName name="java.util.Queue"/>
-    <fullyQualifiedTypeName name="java.util.LinkedList"/>
     <fullyQualifiedTypeName name="java.io.File"/>
     <fullyQualifiedTypeName name="printfile.Files"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="printfile.PrintFile"/>
+    <fullyQualifiedTypeName name="java.lang.Package"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="java.util.Queue"/>
+    <fullyQualifiedTypeName name="patient.PatientData"/>
+    <fullyQualifiedTypeName name="patient.PatientMonitor"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="airways.OnlineTicketBooking"/>
+    <fullyQualifiedTypeName name="java.net.PasswordAuthentication"/>
+    <fullyQualifiedTypeName name="airways.PassengerData"/>
+    <fullyQualifiedTypeName name="singlelinkedlist.SingleLinkedList"/>
 </qualifiedTypeNameHistroy>
