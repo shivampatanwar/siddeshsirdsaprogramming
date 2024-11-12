@@ -51,4 +51,5 @@
     <fullyQualifiedTypeName name="java.net.PasswordAuthentication"/>
     <fullyQualifiedTypeName name="airways.PassengerData"/>
     <fullyQualifiedTypeName name="singlelinkedlist.SingleLinkedList"/>
+    <fullyQualifiedTypeName name="doublell.DoubleLL"/>
 </qualifiedTypeNameHistroy>
