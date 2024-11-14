@@ -44,7 +44,6 @@
     <fullyQualifiedTypeName name="java.util.Queue"/>
     <fullyQualifiedTypeName name="patient.PatientData"/>
     <fullyQualifiedTypeName name="patient.PatientMonitor"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="airways.OnlineTicketBooking"/>
@@ -52,4 +51,11 @@
     <fullyQualifiedTypeName name="airways.PassengerData"/>
     <fullyQualifiedTypeName name="singlelinkedlist.SingleLinkedList"/>
     <fullyQualifiedTypeName name="doublell.DoubleLL"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="javax.swing.tree.AbstractLayoutCache"/>
+    <fullyQualifiedTypeName name="java.util.AbstractList"/>
+    <fullyQualifiedTypeName name="graph.GraphNode"/>
+    <fullyQualifiedTypeName name="graph.Graph"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="bfs.GraphNode"/>
 </qualifiedTypeNameHistroy>
